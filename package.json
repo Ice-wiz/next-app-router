@@ -11,8 +11,9 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "npm-next-smartcode": "https://github.com/Ice-wiz/next-inject-smartcode",
-    "next": "^14.0.3"
+    "next": "^14.0.3",
+    "npm-next-smartcode": "https://github.com/Ice-wiz/next-inject-smartcode"
+
   },
   "devDependencies": {
     "postcss": "^8",

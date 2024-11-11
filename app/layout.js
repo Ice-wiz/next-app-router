@@ -1,6 +1,6 @@
 import localFont from "next/font/local";
 import "./globals.css";
-import { VWOScript } from "npm-next-smartcode";
+import { VWOScript } from "vwo-next-smartcode";
 
 
 const geistSans = localFont({
